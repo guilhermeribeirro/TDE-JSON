@@ -1,0 +1,17 @@
+[
+    {
+        "Nome do Animal": "Bidu",
+        "Idade": 5,
+        "Proprietario": "Caio"
+    },
+    {
+        "Nome do Animal": "Bobby",
+        "Idade": 4,
+        "Proprietario": "Carla"
+    },
+    {
+        "Nome do Animal": "Chiara",
+        "Idade": 9,
+        "Proprietario": "Yasmin"
+    }
+]
